@@ -1,0 +1,5 @@
+{
+  "name": "Tutorial Creación Programación Didàctica",
+  "description": "Una aplicación web moderna que guía a los usuarios a través de un proceso tutorial paso a paso, mostrando una descripción e imagen para cada etapa. Diseñada con un layout de dos columnas y efectos visuales 3D.",
+  "requestFramePermissions": []
+}
